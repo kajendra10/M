@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">PM MVVM Architecture</string>
+
+    <!-- Home Screen Texts-->
+    <string name="hi_kajendra">Hi Kajendra!</string>
+    <string name="welcome_back">Welcome back</string>
+    <string name="search">Search</string>
+    <string name="welcome">Welcome</string>
+    <string name="let_s_schedule_your_nprojects">Let\'s Schedule your \nprojects</string>
+    <string name="ongoing_projects">Ongoing Projects</string>
+    <string name="view_all">View all</string>
+    <string name="home">Home</string>
+    <string name="payments">Payments</string>
+    <string name="my_tasks">My Tasks</string>
+    <string name="profile">Profile</string>
+    <string name="todo">TODO</string>
+
+    <!-- View holder Ongoing Screen Texts-->
+    <string name="april_29_2024">April 29, 2024</string>
+    <string name="food_app">Food App</string>
+    <string name="progress">Progress</string>
+    <string name="_50">50%</string>
+
+    <!-- Profile Screen Texts-->
+    <string name="kajendra_naath_rajan">Kajendra Naath Rajan</string>
+    <string name="android_developer">Android Developer</string>
+    <string name="_60k">6OK</string>
+    <string name="followers">Followers</string>
+    <string name="_32k">32K</string>
+    <string name="following">Following</string>
+    <string name="projects">Projects</string>
+    <string name="_15k">15K</string>
+    <string name="archives">Archives</string>
+    <string name="view_all2">View All</string>
+    <string name="my_team">My Team</string>
+
+    <!-- Viewholder Archives Screen Texts-->
+    <string name="title">Title</string>
+
+    <!-- Viewholder Team Texts-->
+    <string name="title_2">Title</string>
+    <string name="status">Status</string>
+
+</resources>
